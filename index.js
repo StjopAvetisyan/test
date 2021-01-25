@@ -3,5 +3,10 @@ let m = 20
 
 const ggg = function ()
 {
-    console.log("esim")
+    console.log("tyuiop")
+    console.log("tyuiop")
+    console.log("tyuiop")
+    console.log("tyuiop")
+    console.log("tyuiop")
+    console.log("tyuiop")
 }
